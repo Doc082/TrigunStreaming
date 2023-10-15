@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+	<url>
+		<loc>http://trigunstreaming.altervista.org/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://trigunstreaming.altervista.org/modules.php?name=News</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://trigunstreaming.altervista.org/modules.php?name=Forums</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://trigunstreaming.altervista.org/modules.php?name=Live_Chat</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://trigunstreaming.altervista.org/modules.php?name=TVStream</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>

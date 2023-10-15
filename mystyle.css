@@ -1,0 +1,179 @@
+#block a {text-decoration:none;}
+#block a:hover {text-decoration:underline;}
+
+#lista a {
+	font-size:12px;
+	text-decoration:none;
+	background:#FFFFFF;
+	color:#000000;
+}
+
+#lista a:hover {
+	color:#0000FF;
+}
+
+#alphaindex{
+	
+	padding: 3px;
+
+	margin: 3px;
+	
+
+}
+
+
+
+#alphaindex a { 
+
+padding: 2px 5px; 
+margin: 2px; 
+border: solid 2px #aaaadd; 
+text-decoration: none; /* no underline */
+font-weight: bold;
+
+box-shadow: 5px 5px 10px 2px #333333 ;
+	-webkit-box-shadow: 5px 5px 10px 2px #333333;
+	-moz-box-shadow: 5px 5px 10px 2px #333333;
+	}
+
+#alphaindex a:hover{
+
+	border: 2px solid #FF0000;
+	
+
+
+	color: #000;
+
+}
+
+#alphaindex  a.active{
+
+	padding: 2px 5px 2px 5px;
+
+	margin: 2px;
+
+		border: 1px solid #000099;
+
+		
+
+		font-weight: bold;
+
+		background-color: #000099;
+
+		color: #FFF;
+
+	}
+#notizie {
+	padding: 5px;
+	margin: 5px;
+	background-color: #FFFFFF;
+	border: solid 1px #000000;
+	vertical-align: top;
+}
+#noti2{
+	padding: 5px;
+	margin: 5px;
+	vertical-align: top;
+}
+
+#new {
+	padding: 5px;
+	margin: 10px;
+	background-color: #d3e2ea;
+	border: solid 2px #aaaadd;
+	font-weight: bold;
+	color: #000000;
+		
+	box-shadow: 3px 3px 2px 2px #333333;
+	-webkit-box-shadow: 3px 3px 2px 2px #333333;
+	-moz-box-shadow: 3px 3px 2px 2px #333333;
+}
+
+#new a{
+	text-decoration: none;
+}
+
+#new a:hover{
+	color: #FF0000;
+}
+
+#navigation {
+	width: 100%;
+	float: left;
+		
+	padding: 3px;
+	padding-left:20px;
+	margin: 3px;
+	
+}
+
+#navigation ul {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+
+#navigation li {
+
+	width:100px;
+	float:left;
+	margin:0;
+	padding:0;
+	
+}
+
+#navigation a {
+	background: #d3e2ea;
+	display:block;
+   border: solid 2px #aaaadd;	
+	padding: 5px 7px; 
+	margin: 5px; 
+	font-family: arial, Verdana, sans-serif;
+	font-weight: bold;
+	
+	color:#000000;
+	text-decoration: none;
+	
+	box-shadow: 3px 3px 2px 2px #333333;
+	-webkit-box-shadow: 3px 3px 2px 2px #333333;
+	-moz-box-shadow: 3px 3px 2px 2px #333333;
+}
+
+#navigation a:hover {
+	border: 2px solid #FF0000;
+	color:#FF0000;
+	
+	
+}
+
+#navigation li ul {display: none}
+
+#navigation li:hover ul{
+display: block;
+position:absolute;
+z-index:1;
+width:100px;
+padding: 0;
+border: solid 1px #aaaadd;
+background: #d3e2ea;
+box-shadow: 2px 2px 1px 1px #333333;
+	-webkit-box-shadow: 2px 2px 1px 1px #333333;
+	-moz-box-shadow: 2px 2px 1px 1px #333333;
+
+}
+#navigation li ul:hover{
+display: block;
+position:absolute;
+z-index:1;
+
+width:100px;
+padding: 0;
+border: solid 1px #aaaadd;
+background: #d3e2ea;
+box-shadow: 2px 2px 1px 1px #333333;
+	-webkit-box-shadow: 2px 2px 1px 1px #333333;
+	-moz-box-shadow: 2px 2px 1px 1px #333333;
+
+}
+
+

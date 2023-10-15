@@ -1,0 +1,81 @@
+General purpose self-explanatory file with news headlines
+%%
+The Collection [Sub-ITA]
+/modules.php?name=News&file=article&sid=837
+2013-01-30 13:21:50
+spitfire
+Film in lingua originale, sottotitolati
+0
+film.gif
+%%
+Flight
+/modules.php?name=News&file=article&sid=836
+2013-01-30 13:14:30
+spitfire
+Film in Streaming
+0
+film.gif
+%%
+Lincoln
+/modules.php?name=News&file=article&sid=835
+2013-01-30 12:40:41
+spitfire
+Film in Streaming
+0
+film.gif
+%%
+Ghost Movie
+/modules.php?name=News&file=article&sid=834
+2013-01-30 10:37:34
+ladygnu
+Film in Streaming
+0
+film.gif
+%%
+The Sapphires (Sub-Ita)
+/modules.php?name=News&file=article&sid=833
+2013-01-23 21:08:28
+ladygnu
+Film in lingua originale, sottotitolati
+0
+film.gif
+%%
+Les Mis&eacute;rables (Sub-Ita)
+/modules.php?name=News&file=article&sid=832
+2013-01-23 21:00:48
+ladygnu
+Film in Streaming
+0
+film.gif
+%%
+La seconda Guerra Mondiale in 3D
+/modules.php?name=News&file=article&sid=831
+2013-01-23 20:53:40
+ladygnu
+Film in Streaming
+0
+film.gif
+%%
+Bella addormentata
+/modules.php?name=News&file=article&sid=830
+2013-01-23 20:39:47
+ladygnu
+Film in Streaming
+0
+film.gif
+%%
+Rogue River
+/modules.php?name=News&file=article&sid=829
+2013-01-22 15:09:06
+ladygnu
+Film in Streaming
+0
+film.gif
+%%
+The Girl from the Naked eye
+/modules.php?name=News&file=article&sid=828
+2013-01-22 14:55:04
+ladygnu
+
+0
+

